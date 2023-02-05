@@ -1,0 +1,10 @@
+# This option is here to quickly toggle this expansion on a live server that must stay online.
+# We recommend that you remove the Scoreboard expansion jar if you will not use the feature.
+enabled: true
+
+# Set this to true to save the scoreboard the player had before combat.
+# Otherwise, the main server scoreboard will be restored instead.
+save-previous: true
+
+# How often (in ticks) should the scoreboard update?
+update-period: 5

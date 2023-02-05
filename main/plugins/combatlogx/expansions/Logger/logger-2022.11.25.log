@@ -1,0 +1,186 @@
+[十一月 25, 2022 09:44:10.089上午 CST] EntityDamageByEntityEvent was triggered by damaged ITEM_FRAME Item Frame, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 09:46:18.932上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shenfengtianmie, damager PLAYER shangdi8888A and cancelled true.
+[十一月 25, 2022 09:46:53.695上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shenfengtianmie, damager PLAYER shangdi8888A and cancelled true.
+[十一月 25, 2022 09:46:54.215上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shenfengtianmie, damager PLAYER shangdi8888A and cancelled true.
+[十一月 25, 2022 09:46:55.425上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shenfengtianmie, damager PLAYER shangdi8888A and cancelled true.
+[十一月 25, 2022 09:46:56.165上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shenfengtianmie, damager PLAYER shangdi8888A and cancelled true.
+[十一月 25, 2022 09:49:33.023上午 CST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 09:49:34.325上午 CST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 09:49:34.350上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager SPIDER Spider and cancelled false.
+[十一月 25, 2022 09:49:35.325上午 CST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 09:49:36.367上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager CREEPER Creeper and cancelled false.
+[十一月 25, 2022 09:50:52.705上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager CREEPER Creeper and cancelled false.
+[十一月 25, 2022 09:52:01.502上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager SPIDER Spider and cancelled false.
+[十一月 25, 2022 09:52:02.201上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager ZOMBIE Zombie and cancelled false.
+[十一月 25, 2022 09:56:53.775上午 CST] EntityDamageByEntityEvent was triggered by damaged COW Cow, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 09:58:19.375上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 09:58:19.400上午 CST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 09:58:19.447上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 09:58:19.448上午 CST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 09:58:19.449上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 09:58:20.094上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 09:58:20.094上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 09:58:20.095上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 09:58:20.095上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 09:58:20.095上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 09:58:20.143上午 CST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[十一月 25, 2022 09:58:20.145上午 CST] PlayerUntagEvent was triggered on {player_name} with reason SELF_DEATH and expire set to true.
+[十一月 25, 2022 09:58:20.153上午 CST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[十一月 25, 2022 09:58:20.153上午 CST] PlayerUntagEvent was triggered on {player_name} with reason ENEMY_DEATH and expire set to true.
+[十一月 25, 2022 09:59:24.295上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 09:59:24.296上午 CST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 09:59:24.299上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 09:59:24.299上午 CST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 09:59:24.304上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 09:59:35.929上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 09:59:35.930上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 09:59:35.930上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 09:59:35.930上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 09:59:35.930上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 09:59:36.843上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 09:59:36.843上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 09:59:36.843上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 09:59:36.844上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 09:59:36.844上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 09:59:36.856上午 CST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[十一月 25, 2022 09:59:36.856上午 CST] PlayerUntagEvent was triggered on {player_name} with reason SELF_DEATH and expire set to true.
+[十一月 25, 2022 09:59:36.857上午 CST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[十一月 25, 2022 09:59:36.857上午 CST] PlayerUntagEvent was triggered on {player_name} with reason ENEMY_DEATH and expire set to true.
+[十一月 25, 2022 10:01:28.494上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:01:28.495上午 CST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:01:28.495上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:01:28.496上午 CST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:01:28.497上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:01:43.403上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager ZOMBIE shangdi8888A's Zombie and cancelled false.
+[十一月 25, 2022 10:01:43.701上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:01:46.016上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:01:47.584上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:01:47.817上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:01:48.385上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:01:49.192上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:01:49.664上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:01:50.945上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:01:51.192上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:01:51.864上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:01:58.749上午 CST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[十一月 25, 2022 10:01:58.750上午 CST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[十一月 25, 2022 10:01:58.751上午 CST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[十一月 25, 2022 10:01:58.751上午 CST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[十一月 25, 2022 10:02:09.255上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:02:09.256上午 CST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:02:09.257上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:02:09.258上午 CST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:02:09.258上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:02:10.855上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:02:10.856上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:02:10.856上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:02:10.856上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:02:10.856上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:02:10.937上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:02:10.938上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:02:10.938上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:02:10.938上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:02:10.938上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:02:12.219上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:02:12.219上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:02:12.219上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:02:12.219上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:02:12.219上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:02:12.245上午 CST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[十一月 25, 2022 10:02:12.245上午 CST] PlayerUntagEvent was triggered on {player_name} with reason SELF_DEATH and expire set to true.
+[十一月 25, 2022 10:02:12.247上午 CST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[十一月 25, 2022 10:02:12.247上午 CST] PlayerUntagEvent was triggered on {player_name} with reason ENEMY_DEATH and expire set to true.
+[十一月 25, 2022 10:04:06.970上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:04:09.171上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE shangdi8888A's Zombie, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:07:49.637上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:07:49.638上午 CST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:07:49.639上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:07:49.639上午 CST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:07:49.639上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:07:50.587上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:07:50.587上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:07:50.588上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:07:50.589上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:07:50.589上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:07:55.086上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:07:55.086上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:07:55.087上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:07:55.087上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:07:55.087上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:07:56.337上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:07:56.337上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:07:56.337上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:07:56.338上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:07:56.338上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:08.090上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:08:08.091上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:08:08.091上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:08:08.091上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:08:08.091上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:08.702上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:08:08.702上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:08:08.702上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:08:08.702上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:08:08.702上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:08:08.735上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:08:08.735上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:08:08.735上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:08:08.735上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:08:08.736上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:10.134上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[十一月 25, 2022 10:08:10.135上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[十一月 25, 2022 10:08:10.135上午 CST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[十一月 25, 2022 10:08:10.135上午 CST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[十一月 25, 2022 10:08:10.135上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:10.151上午 CST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[十一月 25, 2022 10:08:10.151上午 CST] PlayerUntagEvent was triggered on {player_name} with reason SELF_DEATH and expire set to true.
+[十一月 25, 2022 10:08:10.152上午 CST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[十一月 25, 2022 10:08:10.152上午 CST] PlayerUntagEvent was triggered on {player_name} with reason ENEMY_DEATH and expire set to true.
+[十一月 25, 2022 10:08:18.202上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ZOMBIE Zombie and cancelled false.
+[十一月 25, 2022 10:08:19.751上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ZOMBIE Zombie and cancelled false.
+[十一月 25, 2022 10:08:19.854上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:21.282上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:22.282上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:23.681上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:24.652上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ZOMBIE Zombie and cancelled false.
+[十一月 25, 2022 10:08:24.681上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:30.451上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ZOMBIE Zombie and cancelled false.
+[十一月 25, 2022 10:08:31.552上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ZOMBIE Zombie and cancelled false.
+[十一月 25, 2022 10:08:32.606上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:33.630上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:52.377上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:08:53.579上午 CST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:09:03.475上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:09:04.501上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:05.500上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:06.101上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:06.502上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:07.252上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:08.571上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:09.350上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:09.900上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:10.600上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:11.226上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:09:11.400上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:11.901上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:12.650上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:12.775上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:09:13.451上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:13.900上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:14.652上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:16.001上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:17.025上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:09:18.150上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:19.951上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER wu_youwuju, damager ARROW Arrow and cancelled false.
+[十一月 25, 2022 10:09:21.223上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER wu_youwuju and cancelled false.
+[十一月 25, 2022 10:15:14.196上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager CREEPER Creeper and cancelled false.
+[十一月 25, 2022 10:16:46.556上午 CST] EntityDamageByEntityEvent was triggered by damaged CAT Cat, damager PLAYER shangdi8888A and cancelled true.
+[十一月 25, 2022 10:17:37.295上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON_HORSE Skeleton Horse, damager PLAYER shangdi8888A and cancelled true.
+[十一月 25, 2022 10:19:26.006上午 CST] EntityDamageByEntityEvent was triggered by damaged SKELETON_HORSE Skeleton Horse, damager PLAYER shangdi8888A and cancelled true.
+[十一月 25, 2022 10:19:57.499上午 CST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:19:57.895上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager IRON_GOLEM Iron Golem and cancelled false.
+[十一月 25, 2022 10:21:40.696上午 CST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:21:59.842上午 CST] EntityDamageByEntityEvent was triggered by damaged PLAYER shangdi8888A, damager IRON_GOLEM Iron Golem and cancelled false.
+[十一月 25, 2022 10:24:23.084上午 CST] EntityDamageByEntityEvent was triggered by damaged COW Cow, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:24:26.055上午 CST] EntityDamageByEntityEvent was triggered by damaged COW Cow, damager PLAYER shangdi8888A and cancelled false.
+[十一月 25, 2022 10:24:26.056上午 CST] EntityDamageByEntityEvent was triggered by damaged COW Cow, damager PLAYER shangdi8888A and cancelled false.

@@ -1,0 +1,11 @@
+# JOIN-LEAVE V2.1 Config || Copyright (C) 2021 IdW0309
+Join: '[&a+&r] &6&l%player%' 
+Leave: '[&c-&r] &6&l%player%' 
+First-Join-Message: true
+First-Join: '[&a+&r] &6&l%player%'
+Language: EN
+CommandPrefix: Join-Leave
+Title-Onjoin: true
+Hide-Players-With-Perms: false
+Disable-Join-LeaveMessage: false
+Use-Essentials: false

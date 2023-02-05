@@ -1,0 +1,8 @@
+# JOIN-LEAVE V2.1 Title Config || Copyright (C) 2021 IdW0309
+Title:
+  message: '&6&lWELCOME'
+  lowermessage: '&6&lVirtual &6&lEarth'
+  time:
+    FadeIn: '20'
+    StayIn: '100'
+    FadeOut: '20'

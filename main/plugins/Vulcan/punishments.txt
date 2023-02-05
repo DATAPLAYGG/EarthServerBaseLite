@@ -1,0 +1,616 @@
+--------------[ Suckombo was punished for Speed (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 12006.158252433428
+ - Y: 63.71360000610351
+ - Z: -3962.2699962494653
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 496
+ - Transaction Ping: 56
+ - Server TPS: 20
+ - Sensitivity: 149
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 5.05 seconds ago
+
+Total Violations: 81
+ - Combat Violations: 0
+ - Movement Violations: 81
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1395
+ - Since Riptide Ticks: 1461
+ - Flying Delay: 47
+ - Since Velocity Ticks: 101
+ - Since Firework Ticks: 1461
+ - Ticks Existed: 1295
+ - Since Vehicle Ticks: 1361
+ - Joined: 112 seconds ago
+
+All Violations:
+ - Jump (Type A) [VL: 3] (Invalid jump motion.)
+ - Speed (Type A) [VL: 7] (Invalid friction.)
+ - Speed (Type B) [VL: 18] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 15] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 18] (Moving too quickly on the ground.)
+ - Step (Type B) [VL: 9] (Invalid Step motion.)
+ - Strafe (Type A) [VL: 11] (Moving incorrectly in the air.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, COBBLESTONE, GRASS_BLOCK, GRASS_BLOCK, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Suckombo was punished for Strafe (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 11942.76863023585
+ - Y: 66.34692944981803
+ - Z: -4018.0049978084808
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 138
+ - Transaction Ping: 154
+ - Server TPS: 20
+ - Sensitivity: 149
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 23.65 seconds ago
+
+Total Violations: 51
+ - Combat Violations: 0
+ - Movement Violations: 51
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 998
+ - Since Riptide Ticks: 1089
+ - Flying Delay: 67
+ - Since Velocity Ticks: 473
+ - Since Firework Ticks: 1089
+ - Ticks Existed: 898
+ - Since Vehicle Ticks: 989
+ - Joined: 101 seconds ago
+
+All Violations:
+ - Flight (Type B) [VL: 8] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 2] (Invalid jump motion.)
+ - Speed (Type A) [VL: 11] (Invalid friction.)
+ - Speed (Type B) [VL: 1] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 13] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 1] (Moving too quickly on the ground.)
+ - Strafe (Type A) [VL: 15] (Moving incorrectly in the air.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Suckombo was punished for Flight (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 11938.658931053209
+ - Y: 65.0
+ - Z: -4027.6908450480505
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 107
+ - Transaction Ping: 99
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 10.8 seconds ago
+
+Total Violations: 57
+ - Combat Violations: 0
+ - Movement Violations: 57
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 105
+ - Since Riptide Ticks: 314
+ - Flying Delay: 8
+ - Since Velocity Ticks: 216
+ - Since Firework Ticks: 314
+ - Ticks Existed: 116
+ - Since Vehicle Ticks: 214
+ - Joined: 16 seconds ago
+
+All Violations:
+ - Flight (Type A) [VL: 8] (Invalid Y-Axis movement.)
+ - Flight (Type B) [VL: 30] (Invalid Y-Axis movement.)
+ - Flight (Type E) [VL: 5] (Invalid Y-Axis movement.)
+ - Speed (Type A) [VL: 1] (Invalid friction.)
+ - Speed (Type C) [VL: 3] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 4] (Moving too quickly on the ground.)
+ - Strafe (Type A) [VL: 6] (Moving incorrectly in the air.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GLASS, GLASS, GLASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Suckombo was punished for Motion (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: 11956.017952346929
+ - Y: 63.0
+ - Z: -4030.969258299408
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 604
+ - Transaction Ping: 753
+ - Server TPS: 20
+ - Sensitivity: 149
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 8.6 seconds ago
+
+Total Violations: 33
+ - Combat Violations: 18
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2996
+ - Since Riptide Ticks: 2860
+ - Flying Delay: 10
+ - Since Velocity Ticks: 172
+ - Since Firework Ticks: 2860
+ - Ticks Existed: 2896
+ - Since Vehicle Ticks: 2760
+ - Joined: 305 seconds ago
+
+All Violations:
+ - Hitbox (Type A) [VL: 3] (Attacked while not looking at target.)
+ - Hitbox (Type B) [VL: 8] (Attacked while not looking at target.)
+ - Kill Aura (Type A) [VL: 2] (Post UseEntity packets.)
+ - Reach (Type A) [VL: 5] (Hit from too far away.)
+ - Motion (Type D) [VL: 15] (Too small Y-axis change.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Suckombo was punished for Motion (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: 11994.132640720085
+ - Y: 63.0
+ - Z: -4037.620466563189
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 25
+ - Transaction Ping: 45
+ - Server TPS: 20
+ - Sensitivity: 149
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 29.0 seconds ago
+
+Total Violations: 16
+ - Combat Violations: 1
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 580
+ - Since Riptide Ticks: 666
+ - Flying Delay: 1
+ - Since Velocity Ticks: 580
+ - Since Firework Ticks: 666
+ - Ticks Existed: 480
+ - Since Vehicle Ticks: 566
+ - Joined: 38 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 1] (Post UseEntity packets.)
+ - Motion (Type D) [VL: 15] (Too small Y-axis change.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftDonkey]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Suckombo was punished for Motion (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: 11950.699999988079
+ - Y: 62.0
+ - Z: -4044.5592584963506
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 120
+ - Transaction Ping: 26
+ - Server TPS: 20
+ - Sensitivity: 149
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 13.45 seconds ago
+
+Total Violations: 16
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 489
+ - Since Riptide Ticks: 5289
+ - Flying Delay: 0
+ - Since Velocity Ticks: 269
+ - Since Firework Ticks: 5289
+ - Ticks Existed: 7860
+ - Since Vehicle Ticks: 5189
+ - Joined: 541 seconds ago
+
+All Violations:
+ - Motion (Type D) [VL: 15] (Too small Y-axis change.)
+ - Baritone (Type B) [VL: 1] (Checks for Baritone like rotations.)
+
+Blocks Nearby: [AIR, COBBLESTONE, DIRT, COBBLESTONE, COBBLESTONE, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, AIR, COBBLESTONE, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Suckombo was punished for Motion (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: 11950.699999988079
+ - Y: 62.0
+ - Z: -4044.3472766299324
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 47
+ - Transaction Ping: 42
+ - Server TPS: 20
+ - Sensitivity: 149
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 5.5 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 604
+ - Since Riptide Ticks: 426
+ - Flying Delay: 0
+ - Since Velocity Ticks: 110
+ - Since Firework Ticks: 426
+ - Ticks Existed: 504
+ - Since Vehicle Ticks: 326
+ - Joined: 86 seconds ago
+
+All Violations:
+ - Motion (Type D) [VL: 15] (Too small Y-axis change.)
+
+Blocks Nearby: [AIR, COBBLESTONE, DIRT, COBBLESTONE, COBBLESTONE, GRASS_BLOCK, AIR, COAL_ORE, AIR, AIR, COBBLESTONE, AIR, AIR, DIRT, AIR, COBBLESTONE, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, COBBLESTONE, AIR, DIRT, DIRT, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Suckombo was punished for Improbable (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 11953.78411198912
+ - Y: 70.53435270182176
+ - Z: -4042.9642026677893
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 95
+ - Transaction Ping: 53
+ - Server TPS: 20
+ - Sensitivity: 149
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 16.4 seconds ago
+
+Total Violations: 35
+ - Combat Violations: 0
+ - Movement Violations: 31
+ - Player Violations: 4
+
+Misc Information:
+ - Since Teleport Ticks: 494
+ - Since Riptide Ticks: 499
+ - Flying Delay: 45
+ - Since Velocity Ticks: 328
+ - Since Firework Ticks: 499
+ - Ticks Existed: 394
+ - Since Vehicle Ticks: 399
+ - Joined: 115 seconds ago
+
+All Violations:
+ - Flight (Type A) [VL: 1] (Invalid Y-Axis movement.)
+ - Flight (Type C) [VL: 22] (Invalid Y-Axis movement.)
+ - Flight (Type D) [VL: 8] (Invalid Y-Axis movement.)
+ - Ground Spoof (Type B) [VL: 3] (Spoofed OnGround value.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Suckombo was punished for Improbable (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 11954.5
+ - Y: 63.0
+ - Z: -4015.5
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 110
+ - Transaction Ping: 509
+ - Server TPS: 20
+ - Sensitivity: 149
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 34.55 seconds ago
+
+Total Violations: 39
+ - Combat Violations: 0
+ - Movement Violations: 34
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 74
+ - Since Riptide Ticks: 706
+ - Flying Delay: 120
+ - Since Velocity Ticks: 691
+ - Since Firework Ticks: 706
+ - Ticks Existed: 591
+ - Since Vehicle Ticks: 606
+ - Joined: 51 seconds ago
+
+All Violations:
+ - Jump (Type A) [VL: 1] (Invalid jump motion.)
+ - Jump (Type B) [VL: 2] (Invalid jump motion.)
+ - Speed (Type B) [VL: 15] (Moving too quickly on the ground.)
+ - Speed (Type D) [VL: 15] (Moving too quickly on the ground.)
+ - Step (Type A) [VL: 1] (Invalid Step height.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+ - Invalid (Type E) [VL: 4] (Too large X/Z-Axis movement.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Suckombo was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 11954.48316504946
+ - Y: 65.47734036414174
+ - Z: -4013.7062851450655
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 0
+ - Transaction Ping: 51
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 10.75 seconds ago
+
+Total Violations: 7
+ - Combat Violations: 0
+ - Movement Violations: 2
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 215
+ - Since Riptide Ticks: 314
+ - Flying Delay: 9
+ - Since Velocity Ticks: 215
+ - Since Firework Ticks: 314
+ - Ticks Existed: 115
+ - Since Vehicle Ticks: 214
+ - Joined: 14 seconds ago
+
+All Violations:
+ - Flight (Type C) [VL: 2] (Invalid Y-Axis movement.)
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Suckombo was punished for Bad Packets (Type 2) ]--------------
+
+Location:
+ - World: world
+ - X: 11954.48316504946
+ - Y: 62.0
+ - Z: -4013.7062851450655
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 0
+ - Transaction Ping: 42
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 6.1 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 122
+ - Since Riptide Ticks: 222
+ - Flying Delay: 1040
+ - Since Velocity Ticks: 122
+ - Since Firework Ticks: 222
+ - Ticks Existed: 22
+ - Since Vehicle Ticks: 122
+ - Joined: 15 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 14] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 15] (Sent too many Stop Dig packets.)
+
+Blocks Nearby: [DIRT, DIRT, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Suckombo was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: 11954.48316504946
+ - Y: 62.0
+ - Z: -4013.7062851450655
+
+Information:
+ - UUID: 066e6d6f-92db-3b7b-9ffc-5601e5cfe002
+ - Keep Alive Ping: 0
+ - Transaction Ping: 0
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fml,forge
+ - Vehicle: null
+ - Version: 1.16.4
+ - Last Damage: 5.05 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 101
+ - Since Riptide Ticks: 201
+ - Flying Delay: 1669281187156
+ - Since Velocity Ticks: 101
+ - Since Firework Ticks: 201
+ - Ticks Existed: 1
+ - Since Vehicle Ticks: 101
+ - Joined: 3 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 14] (Sent too many Stop Dig packets.)
+
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ I_am_Zio was punished for Improbable (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 3105.5089507732337
+ - Y: 74.51610926093822
+ - Z: 3184.9921438849274
+
+Information:
+ - UUID: 0fb39938-45c1-3707-91a0-a0d6729a2ef9
+ - Keep Alive Ping: 0
+ - Transaction Ping: 35
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.17.1
+ - Last Damage: 10.8 seconds ago
+
+Total Violations: 38
+ - Combat Violations: 0
+ - Movement Violations: 37
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 216
+ - Since Riptide Ticks: 300
+ - Flying Delay: 66
+ - Since Velocity Ticks: 216
+ - Since Firework Ticks: 300
+ - Ticks Existed: 116
+ - Since Vehicle Ticks: 200
+ - Joined: 9 seconds ago
+
+All Violations:
+ - Flight (Type B) [VL: 2] (Invalid Y-Axis movement.)
+ - Flight (Type E) [VL: 2] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 3] (Invalid jump motion.)
+ - Jump (Type B) [VL: 3] (Invalid jump motion.)
+ - Speed (Type A) [VL: 1] (Invalid friction.)
+ - Speed (Type B) [VL: 7] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 7] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 7] (Moving too quickly on the ground.)
+ - Strafe (Type A) [VL: 5] (Moving incorrectly in the air.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

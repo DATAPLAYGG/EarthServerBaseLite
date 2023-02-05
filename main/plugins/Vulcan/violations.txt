@@ -1,0 +1,419 @@
+[11-24-2022] [16:30:07] Suckombo failed Jump (Type A) [VL: 1] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.22892801043700928 ticks=3 difference=0.019207988153937094
+[11-24-2022] [16:30:07] Suckombo failed Jump (Type A) [VL: 2] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.06463046526535265 ticks=5 difference=0.018447352541116402
+[11-24-2022] [16:30:07] Suckombo failed Jump (Type A) [VL: 3] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.31360000610351335 ticks=2 difference=0.019599987530710905
+[11-24-2022] [16:30:07] Suckombo failed Jump (Type A) [VL: 4] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.14594945306885165 ticks=4 difference=0.018823828757213334
+[11-24-2022] [16:30:08] Suckombo failed Strafe (Type A) [VL: 2] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.010860203921139074 deltaXZ=0.28730000516174065
+[11-24-2022] [16:30:15] Suckombo failed Jump (Type A) [VL: 5] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.3999999999999986 ticks=1 difference=0.01999998688697957
+[11-24-2022] [16:30:15] Suckombo failed Jump (Type A) [VL: 7] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.22892801043700928 ticks=3 difference=0.019207988153937094
+[11-24-2022] [16:30:15] Suckombo failed Jump (Type A) [VL: 7] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.06463046526535265 ticks=5 difference=0.018447352541116402
+[11-24-2022] [16:30:15] Suckombo failed Strafe (Type A) [VL: 4] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.021751893975491033 deltaXZ=0.2870807545620203
+[11-24-2022] [16:30:15] Suckombo failed Strafe (Type A) [VL: 6] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.009545584326687586 deltaXZ=0.2871278963774769
+[11-24-2022] [16:30:16] Suckombo failed Jump (Type A) [VL: 8] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.31360000610351335 ticks=2 difference=0.019599987530710905
+[11-24-2022] [16:30:16] Suckombo failed Speed (Type C) [VL: 2] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.4683557082542256 max=0.36 diff=0.10835570825422564 ticks=3 deltaY=0.22892801043700928
+[11-24-2022] [16:30:16] Suckombo failed Jump (Type A) [VL: 9] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.14594945306885165 ticks=4 difference=0.018823828757213334
+[11-24-2022] [16:30:16] Suckombo failed Strafe (Type A) [VL: 8] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.16994810678225852 deltaXZ=0.28730000064521927
+[11-24-2022] [16:30:17] Suckombo failed Jump (Type A) [VL: 10] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.06463046526535265 ticks=5 difference=0.018447352541116402
+[11-24-2022] [16:30:17] Suckombo failed Jump (Type A) [VL: 11] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.31360000610351335 ticks=2 difference=0.019599987530710905
+[11-24-2022] [16:30:17] Suckombo failed Speed (Type C) [VL: 4] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.4685907853249818 max=0.36 diff=0.10859078532498179 ticks=3 deltaY=0.22892801043700928
+[11-24-2022] [16:30:17] Suckombo failed Jump (Type A) [VL: 12] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.14594945306885165 ticks=4 difference=0.018823828757213334
+[11-24-2022] [16:30:17] Suckombo failed Speed (Type A) [VL: 2] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.1138868379389818 ticks=5 deltaXZ=0.28719670744079884
+[11-24-2022] [16:30:18] Suckombo failed Speed (Type B) [VL: 2] [Ping: 327] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.8302426581593135 max=0.6965 diff=0.13374265815931352 ticks=0 deltaY=0.4000000000000057
+[11-24-2022] [16:30:30] Suckombo failed Speed (Type A) [VL: 3] [Ping: 1451] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.013440361739383122 ticks=3 deltaXZ=0.46886795348828336
+[11-24-2022] [16:42:10] Suckombo failed Speed (Type A) [VL: 2] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.02551507445066825 ticks=6 deltaXZ=0.6155347610166363
+[11-24-2022] [16:42:11] Suckombo failed Strafe (Type A) [VL: 2] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.014178297295259986 deltaXZ=0.6240984906575229
+[11-24-2022] [16:42:11] Suckombo failed Speed (Type B) [VL: 2] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.305319111946499 max=0.760448721077579 diff=0.5448703908689201 ticks=0 deltaY=0.3999999999999986
+[11-24-2022] [16:42:11] Suckombo failed Speed (Type D) [VL: 2] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.305319111946499 max=0.760448721077579 diff=0.5448703908689201 ticks=0 deltaY=0.3999999999999986 tp=1322
+[11-24-2022] [16:42:11] Suckombo failed Speed (Type B) [VL: 3] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.305319161557433 max=0.6604853488793083 diff=0.6448338126781248 ticks=0 deltaY=0.3999999999999986
+[11-24-2022] [16:42:11] Suckombo failed Speed (Type D) [VL: 3] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.305319161557433 max=0.6604853488793083 diff=0.6448338126781248 ticks=0 deltaY=0.3999999999999986 tp=1330
+[11-24-2022] [16:42:11] Suckombo failed Speed (Type C) [VL: 2] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6294427041030278 max=0.39998534887930826 diff=0.22945735522371957 ticks=3 deltaY=0.22892801043700928
+[11-24-2022] [16:42:12] Suckombo failed Speed (Type B) [VL: 4] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.305319116825333 max=0.6205 diff=0.684819116825333 ticks=0 deltaY=0.3999999999999986
+[11-24-2022] [16:42:12] Suckombo failed Speed (Type D) [VL: 4] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.305319116825333 max=0.6205 diff=0.684819116825333 ticks=0 deltaY=0.3999999999999986 tp=1338
+[11-24-2022] [16:42:12] Suckombo failed Speed (Type B) [VL: 5] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6254838409641461 max=0.6205 diff=0.004983840964146058 ticks=0 deltaY=-0.20000000000000284
+[11-24-2022] [16:42:12] Suckombo failed Speed (Type C) [VL: 4] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6254838409641461 max=0.36 diff=0.2654838409641461 ticks=4 deltaY=-0.20000000000000284
+[11-24-2022] [16:42:12] Suckombo failed Speed (Type D) [VL: 5] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6254838409641461 max=0.6205 diff=0.004983840964146058 ticks=0 deltaY=-0.20000000000000284 tp=1341
+[11-24-2022] [16:42:12] Suckombo failed Speed (Type B) [VL: 6] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.305319111589012 max=0.6205 diff=0.6848191115890119 ticks=0 deltaY=0.3999999999999986
+[11-24-2022] [16:42:12] Suckombo failed Speed (Type D) [VL: 6] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.305319111589012 max=0.6205 diff=0.6848191115890119 ticks=0 deltaY=0.3999999999999986 tp=1346
+[11-24-2022] [16:42:12] Suckombo failed Speed (Type B) [VL: 7] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6245888515568114 max=0.6205 diff=0.004088851556811379 ticks=0 deltaY=-0.20000000000000284
+[11-24-2022] [16:42:12] Suckombo failed Speed (Type D) [VL: 7] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6245888515568114 max=0.6205 diff=0.004088851556811379 ticks=0 deltaY=-0.20000000000000284 tp=1349
+[11-24-2022] [16:42:12] Suckombo failed Speed (Type C) [VL: 6] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6206606070267255 max=0.36 diff=0.26066060702672555 ticks=5 deltaY=-0.2744000053405742
+[11-24-2022] [16:42:12] Suckombo failed Step (Type B) [VL: 1] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=6 deltaY=-0.12081599920653474
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type B) [VL: 8] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3052608378670647 max=0.6205 diff=0.6847608378670647 ticks=0 deltaY=0.3999999999999986
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type D) [VL: 8] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3052608378670647 max=0.6205 diff=0.6847608378670647 ticks=0 deltaY=0.3999999999999986 tp=1354
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type B) [VL: 9] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6242753968464647 max=0.6205 diff=0.0037753968464646626 ticks=0 deltaY=-0.20000000000000284
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type D) [VL: 9] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6242753968464647 max=0.6205 diff=0.0037753968464646626 ticks=0 deltaY=-0.20000000000000284 tp=1357
+[11-24-2022] [16:42:13] Suckombo failed Step (Type B) [VL: 2] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=9 deltaY=-0.20000000000000284
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type C) [VL: 8] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6156306134577157 max=0.36 diff=0.25563061345771576 ticks=6 deltaY=-0.34731201199340944
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type B) [VL: 10] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3044601106352216 max=0.6205 diff=0.6839601106352216 ticks=0 deltaY=0.3999999999999986
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type D) [VL: 10] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3044601106352216 max=0.6205 diff=0.6839601106352216 ticks=0 deltaY=0.3999999999999986 tp=1362
+[11-24-2022] [16:42:13] Suckombo failed Step (Type B) [VL: 3] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=10 deltaY=0.3999999999999986
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type A) [VL: 3] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.02655144986367952 ticks=3 deltaXZ=0.6283246361268187
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type B) [VL: 11] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6239620061103834 max=0.6205 diff=0.0034620061103833866 ticks=0 deltaY=-0.20000000000000284
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type D) [VL: 11] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6239620061103834 max=0.6205 diff=0.0034620061103833866 ticks=0 deltaY=-0.20000000000000284 tp=1365
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type A) [VL: 4] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.025869615064290974 ticks=6 deltaXZ=0.6157326283111645
+[11-24-2022] [16:42:13] Suckombo failed Step (Type B) [VL: 4] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=12 deltaY=-0.34731201199340944
+[11-24-2022] [16:42:13] Suckombo failed Strafe (Type A) [VL: 4] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.3227076355201835 deltaXZ=0.6157326283111645
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type B) [VL: 12] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3053191526469656 max=0.6205 diff=0.6848191526469656 ticks=0 deltaY=0.3999999999999986
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type D) [VL: 12] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3053191526469656 max=0.6205 diff=0.6848191526469656 ticks=0 deltaY=0.3999999999999986 tp=1370
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type C) [VL: 10] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6334264857095354 max=0.36 diff=0.2734264857095354 ticks=2 deltaY=0.31360000610351335
+[11-24-2022] [16:42:13] Suckombo failed Step (Type B) [VL: 5] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=15 deltaY=0.22892801043700928
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type B) [VL: 13] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6254839002606136 max=0.6205 diff=0.004983900260613572 ticks=0 deltaY=-0.20000000000000284
+[11-24-2022] [16:42:13] Suckombo failed Speed (Type D) [VL: 13] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6254839002606136 max=0.6205 diff=0.004983900260613572 ticks=0 deltaY=-0.20000000000000284 tp=1373
+[11-24-2022] [16:42:13] Suckombo failed Strafe (Type A) [VL: 6] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.023497301853752133 deltaXZ=0.6215500234612615
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type A) [VL: 5] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.026030350062691054 ticks=6 deltaXZ=0.6176408877132371
+[11-24-2022] [16:42:14] Suckombo failed Step (Type B) [VL: 6] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=15 deltaY=0.0
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type B) [VL: 14] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3053191132668989 max=0.6205 diff=0.6848191132668988 ticks=0 deltaY=0.3999999999999986
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type D) [VL: 14] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3053191132668989 max=0.6205 diff=0.6848191132668988 ticks=0 deltaY=0.3999999999999986 tp=1378
+[11-24-2022] [16:42:14] Suckombo failed Jump (Type A) [VL: 1] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.22892801043700928 ticks=3 difference=0.019207988153937094
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type C) [VL: 12] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6294426701188885 max=0.36 diff=0.26944267011888856 ticks=3 deltaY=0.22892801043700928
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type B) [VL: 15] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6254839154181328 max=0.6205 diff=0.0049839154181327006 ticks=0 deltaY=-0.20000000000000284
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type D) [VL: 15] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6254839154181328 max=0.6205 diff=0.0049839154181327006 ticks=0 deltaY=-0.20000000000000284 tp=1381
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type A) [VL: 6] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.026359661417744373 ticks=5 deltaXZ=0.6215500408522137
+[11-24-2022] [16:42:14] Suckombo failed Step (Type B) [VL: 7] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=18 deltaY=-0.2744000053405742
+[11-24-2022] [16:42:14] Suckombo failed Strafe (Type A) [VL: 8] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.01562976960035761 deltaXZ=0.6215500408522137
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type B) [VL: 16] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3053191566695583 max=0.6205 diff=0.6848191566695583 ticks=0 deltaY=0.3999999999999986
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type D) [VL: 16] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3053191566695583 max=0.6205 diff=0.6848191566695583 ticks=0 deltaY=0.3999999999999986 tp=1386
+[11-24-2022] [16:42:14] Suckombo failed Jump (Type A) [VL: 2] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.31360000610351335 ticks=2 difference=0.019599987530710905
+[11-24-2022] [16:42:14] Suckombo failed Step (Type B) [VL: 8] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=20 deltaY=0.31360000610351335
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type B) [VL: 17] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6254839466685214 max=0.6205 diff=0.004983946668521311 ticks=0 deltaY=-0.20000000000000284
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type C) [VL: 14] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6254839466685214 max=0.36 diff=0.2654839466685214 ticks=4 deltaY=-0.20000000000000284
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type D) [VL: 17] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6254839466685214 max=0.6205 diff=0.004983946668521311 ticks=0 deltaY=-0.20000000000000284 tp=1389
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type A) [VL: 7] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.02635967983524501 ticks=5 deltaXZ=0.6215500877075688
+[11-24-2022] [16:42:14] Suckombo failed Strafe (Type A) [VL: 10] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.0142766767963424 deltaXZ=0.6215500877075688
+[11-24-2022] [16:42:14] Suckombo failed Step (Type B) [VL: 9] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=21 deltaY=-0.12081599920653474
+[11-24-2022] [16:42:14] Suckombo failed Jump (Type A) [VL: 3] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.3999999999999986 ticks=1 difference=0.01999998688697957
+[11-24-2022] [16:42:14] Suckombo failed Speed (Type B) [VL: 18] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3053191522119452 max=0.6205 diff=0.6848191522119451 ticks=0 deltaY=0.3999999999999986
+[11-24-2022] [16:42:15] Suckombo failed Speed (Type D) [VL: 18] [Ping: 496] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.3053191522119452 max=0.6205 diff=0.6848191522119451 ticks=0 deltaY=0.3999999999999986 tp=1394
+[11-24-2022] [16:43:55] Suckombo failed Speed (Type C) [VL: 2] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.4621096654398005 max=0.36 diff=0.10210966543980049 ticks=8 deltaY=-0.15233518685055003
+[11-24-2022] [16:43:55] Suckombo failed Speed (Type A) [VL: 2] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.015589857770273718 ticks=11 deltaXZ=0.4621096654398005
+[11-24-2022] [16:43:55] Suckombo failed Speed (Type C) [VL: 4] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.462109648150106 max=0.36 diff=0.10210964815010604 ticks=4 deltaY=0.1647732818260721
+[11-24-2022] [16:43:56] Suckombo failed Speed (Type A) [VL: 3] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.01558985621420167 ticks=6 deltaXZ=0.462109648150106
+[11-24-2022] [16:43:56] Suckombo failed Speed (Type A) [VL: 4] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.01558985621420167 ticks=9 deltaXZ=0.462109648150106
+[11-24-2022] [16:43:56] Suckombo failed Speed (Type C) [VL: 6] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.462109648150106 max=0.36 diff=0.10210964815010604 ticks=10 deltaY=-0.3015347236627832
+[11-24-2022] [16:43:56] Suckombo failed Speed (Type A) [VL: 5] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.015589857770273718 ticks=4 deltaXZ=0.4621096654398005
+[11-24-2022] [16:43:56] Suckombo failed Speed (Type C) [VL: 8] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.4621096654398005 max=0.36 diff=0.10210966543980049 ticks=6 deltaY=0.003016261509046103
+[11-24-2022] [16:43:56] Suckombo failed Speed (Type A) [VL: 6] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.015589857770273718 ticks=7 deltaXZ=0.4621096654398005
+[11-24-2022] [16:44:01] Suckombo failed Jump (Type A) [VL: 1] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.2940000116825132 ticks=5 difference=0.21092219387604416
+[11-24-2022] [16:44:01] Suckombo failed Jump (Type A) [VL: 2] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.3458400137424462 ticks=7 difference=0.5010720182590447
+[11-24-2022] [16:44:01] Suckombo failed Speed (Type A) [VL: 7] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.07195415091519952 ticks=17 deltaXZ=0.3420432747359865
+[11-24-2022] [16:44:01] Suckombo failed Flight (Type B) [VL: 2] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=18 delay=50 tp=984
+[11-24-2022] [16:44:01] Suckombo failed Strafe (Type A) [VL: 2] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.04935116988762303 deltaXZ=0.4703410642393384
+[11-24-2022] [16:44:01] Suckombo failed Speed (Type A) [VL: 8] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.07195602174124249 ticks=20 deltaXZ=0.5259664025342258
+[11-24-2022] [16:44:01] Suckombo failed Speed (Type C) [VL: 10] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.576585623798553 max=0.36 diff=0.21658562379855306 ticks=21 deltaY=0.0
+[11-24-2022] [16:44:01] Suckombo failed Strafe (Type A) [VL: 4] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.04935116988713137 deltaXZ=0.576585623798553
+[11-24-2022] [16:44:01] Suckombo failed Flight (Type B) [VL: 4] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=22 delay=74 tp=988
+[11-24-2022] [16:44:01] Suckombo failed Strafe (Type A) [VL: 6] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.04938461985179082 deltaXZ=0.6056290904181751
+[11-24-2022] [16:44:01] Suckombo failed Speed (Type A) [VL: 9] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.008594029304094697 ticks=24 deltaXZ=0.5857165174678891
+[11-24-2022] [16:44:01] Suckombo failed Strafe (Type A) [VL: 8] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.04938462095731597 deltaXZ=0.5798133487803442
+[11-24-2022] [16:44:01] Suckombo failed Flight (Type B) [VL: 6] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.32640001296996957 difference=0.11667999743938032 ticks=26 delay=36 tp=992
+[11-24-2022] [16:44:01] Suckombo failed Speed (Type A) [VL: 10] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.04278707994792297 ticks=27 deltaXZ=0.6026254396041193
+[11-24-2022] [16:44:01] Suckombo failed Speed (Type C) [VL: 12] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6026254396041193 max=0.36 diff=0.2426254396041193 ticks=27 deltaY=0.19584000778198174
+[11-24-2022] [16:44:01] Suckombo failed Strafe (Type A) [VL: 10] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.04938462095705559 deltaXZ=0.6026254396041193
+[11-24-2022] [16:44:02] Suckombo failed Strafe (Type A) [VL: 12] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.049384619902713076 deltaXZ=0.6491247827844905
+[11-24-2022] [16:44:02] Suckombo failed Flight (Type B) [VL: 8] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.025380865008543196 difference=0.062325452880298914 ticks=31 delay=101 tp=997
+[11-24-2022] [16:44:02] Suckombo failed Speed (Type A) [VL: 11] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.06266355864710693 ticks=31 deltaXZ=0.7040626679450971
+[11-24-2022] [16:44:02] Suckombo failed Strafe (Type A) [VL: 14] [Ping: 138] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.049384619902721 deltaXZ=0.7040626679450971
+[11-24-2022] [16:44:22] Suckombo failed Flight (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=58 delay=2 tp=47
+[11-24-2022] [16:44:22] Suckombo failed Flight (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=62 delay=0 tp=51
+[11-24-2022] [16:44:22] Suckombo failed Flight (Type B) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=66 delay=89 tp=55
+[11-24-2022] [16:44:22] Suckombo failed Flight (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=21 delay=183 tp=56
+[11-24-2022] [16:44:22] Suckombo failed Flight (Type E) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=23 acceleration=0.0 deltaY=0.0 delay=27 tp=58
+[11-24-2022] [16:44:22] Suckombo failed Flight (Type B) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=70 delay=4 tp=59
+[11-24-2022] [16:44:22] Suckombo failed Strafe (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.049384616478646295 deltaXZ=0.46482176188404234
+[11-24-2022] [16:44:22] Suckombo failed Flight (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=27 delay=53 tp=62
+[11-24-2022] [16:44:23] Suckombo failed Flight (Type B) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=74 delay=168 tp=63
+[11-24-2022] [16:44:23] Suckombo failed Strafe (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.04938461647916691 deltaXZ=0.5716812715494357
+[11-24-2022] [16:44:23] Suckombo failed Flight (Type A) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=29 delay=69 tp=64
+[11-24-2022] [16:44:23] Suckombo failed Flight (Type E) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=30 acceleration=0.0 deltaY=0.0 delay=53 tp=65
+[11-24-2022] [16:44:23] Suckombo failed Speed (Type D) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6603878419123302 max=0.2975 diff=0.36288784191233026 ticks=66 deltaY=0.0 tp=65
+[11-24-2022] [16:44:23] Suckombo failed Strafe (Type A) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] difference=0.04938461647873328 deltaXZ=0.6603878419123302
+[11-24-2022] [16:44:23] Suckombo failed Speed (Type C) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.6009529534595033 max=0.36 diff=0.2409529534595033 ticks=77 deltaY=0.0
+[11-24-2022] [16:44:23] Suckombo failed Flight (Type A) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=32 delay=25 tp=67
+[11-24-2022] [16:44:23] Suckombo failed Flight (Type B) [VL: 12] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=78 delay=25 tp=67
+[11-24-2022] [16:44:23] Suckombo failed Speed (Type D) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.49764916944422555 max=0.2975 diff=0.20014916944422556 ticks=69 deltaY=0.0 tp=68
+[11-24-2022] [16:44:23] Suckombo failed Flight (Type B) [VL: 14] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=84 delay=10 tp=73
+[11-24-2022] [16:44:23] Suckombo failed Speed (Type D) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=0.37501401469102613 max=0.2975 diff=0.07751401469102615 ticks=75 deltaY=0.0 tp=74
+[11-24-2022] [16:44:23] Suckombo failed Flight (Type B) [VL: 16] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=88 delay=52 tp=77
+[11-24-2022] [16:44:23] Suckombo failed Flight (Type B) [VL: 18] [Ping: 107] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=92 delay=44 tp=81
+[11-24-2022] [16:44:24] Suckombo failed Flight (Type B) [VL: 20] [Ping: 107] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=96 delay=1 tp=85
+[11-24-2022] [16:44:24] Suckombo failed Flight (Type B) [VL: 22] [Ping: 107] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=100 delay=11 tp=89
+[11-24-2022] [16:44:24] Suckombo failed Flight (Type B) [VL: 24] [Ping: 107] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=104 delay=9 tp=93
+[11-24-2022] [16:44:24] Suckombo failed Flight (Type B) [VL: 26] [Ping: 107] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=108 delay=9 tp=97
+[11-24-2022] [16:44:24] Suckombo failed Flight (Type B) [VL: 28] [Ping: 107] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=112 delay=57 tp=101
+[11-24-2022] [16:44:24] Suckombo failed Flight (Type B) [VL: 30] [Ping: 107] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=116 delay=8 tp=105
+[11-24-2022] [16:44:53] Suckombo failed Flight (Type A) [VL: 2] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=31 delay=4 tp=162
+[11-24-2022] [16:44:53] Suckombo failed Flight (Type B) [VL: 2] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=63 delay=107 tp=163
+[11-24-2022] [16:44:53] Suckombo failed Flight (Type E) [VL: 2] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=32 acceleration=0.0 deltaY=0.0 delay=107 tp=163
+[11-24-2022] [16:44:53] Suckombo failed Flight (Type A) [VL: 4] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=33 delay=98 tp=164
+[11-24-2022] [16:44:54] Suckombo failed Flight (Type A) [VL: 6] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=36 delay=12 tp=167
+[11-24-2022] [16:44:54] Suckombo failed Flight (Type B) [VL: 4] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=67 delay=12 tp=167
+[11-24-2022] [16:44:54] Suckombo failed Flight (Type E) [VL: 4] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] ticks=36 acceleration=0.0 deltaY=0.0 delay=12 tp=167
+[11-24-2022] [16:44:54] Suckombo failed Flight (Type A) [VL: 8] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.0 difference=0.0784000015258789 ticks=38 delay=3 tp=169
+[11-24-2022] [16:45:51] Suckombo failed Kill Aura (Type A) [VL: 1] [Ping: 172] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=47
+[11-24-2022] [16:47:17] Suckombo failed Hitbox (Type B) [VL: 1] [Ping: 140] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] angle=50.01741040520626 distance=5.298467216412791
+[11-24-2022] [16:47:25] Suckombo failed Hitbox (Type B) [VL: 2] [Ping: 140] [TPS: 19.75] [Version: 1.16.4] [Client: Fml,forge] angle=92.54794993283807 distance=3.287729664793779
+[11-24-2022] [16:47:37] Suckombo failed Reach (Type A) [VL: 1] [Ping: 136] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] distance=4.796946969570007
+[11-24-2022] [16:47:48] Suckombo failed Hitbox (Type A) [VL: 1] [Ping: 325] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] angle=2.43597674369812 distance=4.830476252208902 dYaw=0.9790039
+[11-24-2022] [16:47:48] Suckombo failed Hitbox (Type B) [VL: 3] [Ping: 325] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] angle=143.7072211182033 distance=4.830476252208902
+[11-24-2022] [16:47:51] Suckombo failed Reach (Type A) [VL: 2] [Ping: 325] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] distance=3.691793574198877
+[11-24-2022] [16:47:57] Suckombo failed Hitbox (Type A) [VL: 2] [Ping: 325] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] angle=0.6607524752616882 distance=6.469838935558395 dYaw=5.5478516
+[11-24-2022] [16:47:57] Suckombo failed Reach (Type A) [VL: 3] [Ping: 325] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] distance=5.419524503796879
+[11-24-2022] [16:48:04] Suckombo failed Kill Aura (Type A) [VL: 1] [Ping: 284] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=57
+[11-24-2022] [16:48:06] Suckombo failed Kill Aura (Type A) [VL: 2] [Ping: 284] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=53
+[11-24-2022] [16:48:07] Suckombo failed Hitbox (Type A) [VL: 3] [Ping: 284] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] angle=2.479889392852783 distance=9.572450798216478 dYaw=0.65270996
+[11-24-2022] [16:48:07] Suckombo failed Hitbox (Type B) [VL: 4] [Ping: 284] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] angle=138.51967878320028 distance=9.572450798216478
+[11-24-2022] [16:48:17] Suckombo failed Motion (Type D) [VL: 1] [Ping: 240] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:48:18] Suckombo failed Motion (Type D) [VL: 2] [Ping: 240] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:48:18] Suckombo failed Motion (Type D) [VL: 3] [Ping: 240] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:48:23] Suckombo failed Motion (Type D) [VL: 4] [Ping: 240] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:48:31] Suckombo failed Motion (Type D) [VL: 5] [Ping: 240] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:48:31] Suckombo failed Motion (Type D) [VL: 6] [Ping: 240] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:48:31] Suckombo failed Motion (Type D) [VL: 7] [Ping: 364] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:48:45] Suckombo failed Hitbox (Type B) [VL: 5] [Ping: 364] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] angle=111.3102473564313 distance=2.5781967506181527
+[11-24-2022] [16:48:47] Suckombo failed Hitbox (Type B) [VL: 6] [Ping: 378] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] angle=100.10006277736449 distance=2.55532987805796
+[11-24-2022] [16:48:49] Suckombo failed Hitbox (Type B) [VL: 7] [Ping: 378] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] angle=145.0258710997443 distance=2.7800255982280695
+[11-24-2022] [16:48:57] Suckombo failed Hitbox (Type B) [VL: 8] [Ping: 378] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] angle=59.12032111587866 distance=5.369339152526081
+[11-24-2022] [16:48:58] Suckombo failed Motion (Type D) [VL: 8] [Ping: 378] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:48:59] Suckombo failed Reach (Type A) [VL: 4] [Ping: 378] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] distance=5.083255204074145
+[11-24-2022] [16:48:59] Suckombo failed Motion (Type D) [VL: 9] [Ping: 378] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:49:00] Suckombo failed Motion (Type D) [VL: 10] [Ping: 378] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:49:00] Suckombo failed Reach (Type A) [VL: 5] [Ping: 378] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] distance=5.097248327121324
+[11-24-2022] [16:49:00] Suckombo failed Motion (Type D) [VL: 12] [Ping: 378] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:49:00] Suckombo failed Motion (Type D) [VL: 12] [Ping: 378] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:49:05] Suckombo failed Motion (Type D) [VL: 13] [Ping: 395] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:49:05] Suckombo failed Motion (Type D) [VL: 14] [Ping: 395] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:49:36] Suckombo failed Motion (Type D) [VL: 15] [Ping: 604] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:11] Suckombo failed Motion (Type D) [VL: 1] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:15] Suckombo failed Kill Aura (Type A) [VL: 1] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=45
+[11-24-2022] [16:50:17] Suckombo failed Motion (Type D) [VL: 2] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:17] Suckombo failed Motion (Type D) [VL: 3] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:17] Suckombo failed Motion (Type D) [VL: 5] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:17] Suckombo failed Motion (Type D) [VL: 5] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:17] Suckombo failed Motion (Type D) [VL: 6] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:18] Suckombo failed Motion (Type D) [VL: 7] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:19] Suckombo failed Motion (Type D) [VL: 8] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:19] Suckombo failed Motion (Type D) [VL: 9] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:20] Suckombo failed Motion (Type D) [VL: 10] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:20] Suckombo failed Motion (Type D) [VL: 11] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:20] Suckombo failed Motion (Type D) [VL: 12] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:21] Suckombo failed Motion (Type D) [VL: 13] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:22] Suckombo failed Motion (Type D) [VL: 14] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [16:50:22] Suckombo failed Motion (Type D) [VL: 15] [Ping: 25] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:05:22] Suckombo failed Baritone (Type B) [VL: 1] [Ping: 322] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaPitch=6.942749E-4 deltaYaw=104.12818
+[11-24-2022] [17:07:44] Suckombo failed Motion (Type D) [VL: 1] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:45] Suckombo failed Motion (Type D) [VL: 2] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:46] Suckombo failed Motion (Type D) [VL: 3] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:46] Suckombo failed Motion (Type D) [VL: 5] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:46] Suckombo failed Motion (Type D) [VL: 5] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:49] Suckombo failed Motion (Type D) [VL: 6] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:50] Suckombo failed Motion (Type D) [VL: 7] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:50] Suckombo failed Motion (Type D) [VL: 9] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:50] Suckombo failed Motion (Type D) [VL: 9] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:51] Suckombo failed Motion (Type D) [VL: 10] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:51] Suckombo failed Motion (Type D) [VL: 11] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:55] Suckombo failed Motion (Type D) [VL: 13] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:55] Suckombo failed Motion (Type D) [VL: 13] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:55] Suckombo failed Motion (Type D) [VL: 14] [Ping: 142] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:07:56] Suckombo failed Motion (Type D) [VL: 15] [Ping: 120] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:22] Suckombo failed Motion (Type D) [VL: 1] [Ping: 36] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:24] Suckombo failed Motion (Type D) [VL: 2] [Ping: 36] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:25] Suckombo failed Motion (Type D) [VL: 3] [Ping: 36] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:27] Suckombo failed Motion (Type D) [VL: 4] [Ping: 36] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:28] Suckombo failed Motion (Type D) [VL: 5] [Ping: 36] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:31] Suckombo failed Motion (Type D) [VL: 6] [Ping: 47] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:32] Suckombo failed Motion (Type D) [VL: 7] [Ping: 47] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:33] Suckombo failed Motion (Type D) [VL: 8] [Ping: 47] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:34] Suckombo failed Motion (Type D) [VL: 9] [Ping: 47] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:38] Suckombo failed Motion (Type D) [VL: 10] [Ping: 47] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:39] Suckombo failed Motion (Type D) [VL: 11] [Ping: 47] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:43] Suckombo failed Motion (Type D) [VL: 12] [Ping: 47] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:08:44] Suckombo failed Motion (Type D) [VL: 13] [Ping: 47] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:09:27] Suckombo failed Motion (Type D) [VL: 14] [Ping: 47] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:09:27] Suckombo failed Motion (Type D) [VL: 15] [Ping: 47] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:09:41] Suckombo failed Motion (Type D) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:10:19] Suckombo failed Motion (Type D) [VL: 2] [Ping: 194] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:11:24] Suckombo failed Flight (Type C) [VL: 2] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.24813599859093927 ticks=14 delay=63 tp=448
+[11-24-2022] [17:11:25] Suckombo failed Flight (Type C) [VL: 4] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.33319999363422426 ticks=26 delay=39 tp=460
+[11-24-2022] [17:11:25] Suckombo failed Flight (Type C) [VL: 6] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.1647732818260721 ticks=28 delay=76 tp=462
+[11-24-2022] [17:11:25] Suckombo failed Flight (Type C) [VL: 8] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.33319999363422426 ticks=30 delay=66 tp=464
+[11-24-2022] [17:11:25] Suckombo failed Flight (Type C) [VL: 10] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.1647732818260721 ticks=32 delay=22 tp=466
+[11-24-2022] [17:11:25] Suckombo failed Flight (Type D) [VL: 2] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.1647732818260721 ticks=32 delay=22 tp=466
+[11-24-2022] [17:11:26] Suckombo failed Flight (Type C) [VL: 12] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.24813599859093927 ticks=39 delay=18 tp=473
+[11-24-2022] [17:11:26] Suckombo failed Flight (Type D) [VL: 4] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.1647732818260721 ticks=40 delay=61 tp=474
+[11-24-2022] [17:11:26] Suckombo failed Flight (Type C) [VL: 14] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.41999998688697815 ticks=41 delay=85 tp=475
+[11-24-2022] [17:11:26] Suckombo failed Flight (Type C) [VL: 16] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.24813599859093927 ticks=43 delay=40 tp=477
+[11-24-2022] [17:11:26] Suckombo failed Flight (Type C) [VL: 18] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.33319999363422426 ticks=45 delay=7 tp=479
+[11-24-2022] [17:11:26] Suckombo failed Flight (Type D) [VL: 6] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.24813599859093927 ticks=46 delay=48 tp=480
+[11-24-2022] [17:11:26] Suckombo failed Flight (Type C) [VL: 20] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.1647732818260721 ticks=47 delay=53 tp=481
+[11-24-2022] [17:11:26] Suckombo failed Ground Spoof (Type B) [VL: 1] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] client=true server=false
+[11-24-2022] [17:11:27] Suckombo failed Ground Spoof (Type B) [VL: 2] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] client=true server=false
+[11-24-2022] [17:11:27] Suckombo failed Flight (Type D) [VL: 8] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.24813599859093927 ticks=58 delay=56 tp=492
+[11-24-2022] [17:11:27] Suckombo failed Flight (Type C) [VL: 22] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.1647732818260721 ticks=59 delay=40 tp=493
+[11-24-2022] [17:11:27] Suckombo failed Ground Spoof (Type B) [VL: 3] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] client=true server=false
+[11-24-2022] [17:11:27] Suckombo failed Improbable (Type B) [VL: 1] [Ping: 95] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] movementViolations=31
+[11-24-2022] [17:12:11] Suckombo failed Speed (Type B) [VL: 2] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=4.1996284643067545 max=0.2975 diff=3.9021284643067546 ticks=53 deltaY=0.0
+[11-24-2022] [17:12:11] Suckombo failed Speed (Type D) [VL: 2] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=4.1996284643067545 max=0.2975 diff=3.9021284643067546 ticks=19 deltaY=0.0 tp=612
+[11-24-2022] [17:12:12] Suckombo failed Speed (Type B) [VL: 3] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=4.242640687119285 max=0.2975 diff=3.945140687119285 ticks=55 deltaY=0.0
+[11-24-2022] [17:12:12] Suckombo failed Speed (Type D) [VL: 3] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=4.242640687119285 max=0.2975 diff=3.945140687119285 ticks=20 deltaY=0.0 tp=614
+[11-24-2022] [17:12:12] Suckombo failed Invalid (Type E) [VL: 1] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaXZ=4.242640687119285
+[11-24-2022] [17:12:12] Suckombo failed Invalid (Type E) [VL: 2] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaXZ=3.605551275463989
+[11-24-2022] [17:12:13] Suckombo failed Speed (Type B) [VL: 4] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=3.1622776601683795 max=0.3 diff=2.8622776601683797 ticks=9 deltaY=0.0
+[11-24-2022] [17:12:13] Suckombo failed Speed (Type D) [VL: 4] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=3.1622776601683795 max=0.2975 diff=2.8647776601683796 ticks=25 deltaY=0.0 tp=10
+[11-24-2022] [17:12:14] Suckombo failed Speed (Type B) [VL: 5] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=3.1622776601683795 max=0.2975 diff=2.8647776601683796 ticks=12 deltaY=0.0
+[11-24-2022] [17:12:14] Suckombo failed Speed (Type D) [VL: 5] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=3.1622776601683795 max=0.2975 diff=2.8647776601683796 ticks=26 deltaY=0.0 tp=13
+[11-24-2022] [17:12:14] Suckombo failed Speed (Type B) [VL: 6] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=3.1622776601683795 max=0.2975 diff=2.8647776601683796 ticks=17 deltaY=0.0
+[11-24-2022] [17:12:14] Suckombo failed Speed (Type D) [VL: 6] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=3.1622776601683795 max=0.2975 diff=2.8647776601683796 ticks=27 deltaY=0.0 tp=18
+[11-24-2022] [17:12:14] Suckombo failed Speed (Type B) [VL: 7] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=2.8284271247461903 max=0.2975 diff=2.5309271247461904 ticks=22 deltaY=0.0
+[11-24-2022] [17:12:14] Suckombo failed Speed (Type D) [VL: 7] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=2.8284271247461903 max=0.2975 diff=2.5309271247461904 ticks=28 deltaY=0.0 tp=23
+[11-24-2022] [17:12:14] Suckombo failed Speed (Type B) [VL: 8] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=2.8284271247461903 max=0.2975 diff=2.5309271247461904 ticks=25 deltaY=-0.0625
+[11-24-2022] [17:12:14] Suckombo failed Speed (Type D) [VL: 8] [Ping: 81] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=2.8284271247461903 max=0.2975 diff=2.5309271247461904 ticks=29 deltaY=-0.0625 tp=26
+[11-24-2022] [17:12:19] Suckombo failed Jump (Type B) [VL: 1] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.9840999984741217 limit=0.41999998688697815 tp=35
+[11-24-2022] [17:12:19] Suckombo failed Speed (Type B) [VL: 9] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=2.23606797749979 max=0.6965 diff=1.53956797749979 ticks=0 deltaY=0.9840999984741217
+[11-24-2022] [17:12:19] Suckombo failed Speed (Type D) [VL: 9] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=2.23606797749979 max=0.7965 diff=1.4395679774997898 ticks=0 deltaY=0.9840999984741217 tp=35
+[11-24-2022] [17:12:20] Suckombo failed Jump (Type A) [VL: 1] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.9215999984741217 ticks=1 difference=0.5016000115871435
+[11-24-2022] [17:12:20] Suckombo failed Jump (Type B) [VL: 2] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.9215999984741217 limit=0.41999998688697815 tp=40
+[11-24-2022] [17:12:20] Suckombo failed Speed (Type B) [VL: 10] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=2.23606797749979 max=0.6965 diff=1.53956797749979 ticks=0 deltaY=0.9215999984741217
+[11-24-2022] [17:12:20] Suckombo failed Speed (Type D) [VL: 10] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=2.23606797749979 max=0.6965 diff=1.53956797749979 ticks=0 deltaY=0.9215999984741217 tp=40
+[11-24-2022] [17:12:20] Suckombo failed Speed (Type B) [VL: 11] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=4.123105625617661 max=0.49844 diff=3.6246656256176606 ticks=2 deltaY=0.0
+[11-24-2022] [17:12:20] Suckombo failed Speed (Type D) [VL: 11] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=4.123105625617661 max=0.49844 diff=3.6246656256176606 ticks=2 deltaY=0.0 tp=45
+[11-24-2022] [17:12:20] Suckombo failed Invalid (Type E) [VL: 3] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaXZ=4.123105625617661
+[11-24-2022] [17:12:21] Suckombo failed Speed (Type B) [VL: 12] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=4.156707991061523 max=0.40049999999999997 diff=3.7562079910615234 ticks=8 deltaY=0.0
+[11-24-2022] [17:12:21] Suckombo failed Speed (Type D) [VL: 12] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=4.156707991061523 max=0.40249999999999997 diff=3.7542079910615236 ticks=7 deltaY=0.0 tp=51
+[11-24-2022] [17:12:21] Suckombo failed Invalid (Type E) [VL: 4] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaXZ=4.156707991061523
+[11-24-2022] [17:12:21] Suckombo failed Speed (Type B) [VL: 13] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=3.1622776601683795 max=0.39749999999999996 diff=2.7647776601683796 ticks=15 deltaY=-1.0
+[11-24-2022] [17:12:21] Suckombo failed Speed (Type D) [VL: 13] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=3.1622776601683795 max=0.40049999999999997 diff=2.7617776601683794 ticks=8 deltaY=-1.0 tp=58
+[11-24-2022] [17:12:21] Suckombo failed Speed (Type B) [VL: 14] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.4142135623730951 max=0.39749999999999996 diff=1.0167135623730952 ticks=22 deltaY=0.0
+[11-24-2022] [17:12:21] Suckombo failed Speed (Type D) [VL: 14] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=1.4142135623730951 max=0.4 diff=1.014213562373095 ticks=9 deltaY=0.0 tp=65
+[11-24-2022] [17:12:22] Suckombo failed Speed (Type B) [VL: 15] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=4.0 max=0.39749999999999996 diff=3.6025 ticks=31 deltaY=1.0
+[11-24-2022] [17:12:22] Suckombo failed Speed (Type D) [VL: 15] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] speed=4.0 max=0.39749999999999996 diff=3.6025 ticks=10 deltaY=1.0 tp=74
+[11-24-2022] [17:12:22] Suckombo failed Step (Type A) [VL: 1] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0
+[11-24-2022] [17:12:22] Suckombo failed Improbable (Type B) [VL: 1] [Ping: 110] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] movementViolations=32
+[11-24-2022] [17:12:41] Suckombo failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] client=true server=false
+[11-24-2022] [17:12:41] Suckombo failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] client=true server=false
+[11-24-2022] [17:12:41] Suckombo failed Ground Spoof (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] client=true server=false
+[11-24-2022] [17:12:41] Suckombo failed Ground Spoof (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] client=true server=false
+[11-24-2022] [17:12:41] Suckombo failed Flight (Type C) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.24813599859093927 ticks=20 delay=9 tp=215
+[11-24-2022] [17:12:41] Suckombo failed Ground Spoof (Type B) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] client=true server=false
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 1] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 1] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 4] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 4] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 4] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 4] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 4] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 4] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 6] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 6] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 6] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 6] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 9] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 9] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 9] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=1
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 9] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=1
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 9] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 9] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 10] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 10] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 11] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=1
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 12] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 13] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=1
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 12] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 13] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 13] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 14] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 1) [VL: 14] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:00] Suckombo failed Bad Packets (Type 2) [VL: 15] [Ping: 13] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=2
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 12] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 13] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 13] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 13] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 14] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 2) [VL: 14] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=1
+[11-24-2022] [17:13:08] Suckombo failed Bad Packets (Type 1) [VL: 15] [Ping: 0] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] delay=0
+[11-24-2022] [17:17:10] Suckombo failed Jump (Type A) [VL: 1] [Ping: 747] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=0.24813599859093927 ticks=8 difference=0.4786633675039056
+[11-24-2022] [17:32:11] Suckombo failed Ground Spoof (Type C) [VL: 1] [Ping: 6] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=-0.905432352477284 airTicks=0
+[11-24-2022] [17:32:11] Suckombo failed Ground Spoof (Type C) [VL: 2] [Ping: 6] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=-1.0248092696844964 airTicks=0
+[11-24-2022] [17:32:11] Suckombo failed Ground Spoof (Type C) [VL: 3] [Ping: 6] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=-1.1394588654330988 airTicks=0
+[11-24-2022] [17:32:11] Suckombo failed Ground Spoof (Type C) [VL: 4] [Ping: 6] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=-1.2495683414761203 airTicks=0
+[11-24-2022] [17:35:30] Suckombo failed Motion (Type D) [VL: 1] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:30] Suckombo failed Motion (Type D) [VL: 2] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:30] Suckombo failed Motion (Type D) [VL: 3] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:30] Suckombo failed Motion (Type D) [VL: 4] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:31] Suckombo failed Motion (Type D) [VL: 5] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:31] Suckombo failed Motion (Type D) [VL: 6] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:31] Suckombo failed Motion (Type D) [VL: 7] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:31] Suckombo failed Motion (Type D) [VL: 8] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:32] Suckombo failed Motion (Type D) [VL: 9] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:32] Suckombo failed Motion (Type D) [VL: 10] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:32] Suckombo failed Motion (Type D) [VL: 11] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:32] Suckombo failed Motion (Type D) [VL: 12] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:35:33] Suckombo failed Motion (Type D) [VL: 13] [Ping: 30] [TPS: 20] [Version: 1.16.4] [Client: Fml,forge] deltaY=1.0000000000331966E-4
+[11-24-2022] [17:51:30] Praise_suffering failed Jump (Type A) [VL: 2] [Ping: 34] [TPS: 20] [Version: 1.16.4] [Client: Fabric] deltaY=0.1647732818260721 ticks=6 difference=0.24317328335195043
+[11-24-2022] [17:51:30] Praise_suffering failed Jump (Type A) [VL: 2] [Ping: 34] [TPS: 20] [Version: 1.16.4] [Client: Fabric] deltaY=0.003016261509046103 ticks=8 difference=0.23354363042201243
+[11-24-2022] [18:18:30] Praise_suffering failed Jump (Type A) [VL: 1] [Ping: 42] [TPS: 20] [Version: 1.16.4] [Client: Fabric] deltaY=0.16477328182605788 ticks=6 difference=0.24317328335193622
+[11-24-2022] [18:18:30] Praise_suffering failed Jump (Type A) [VL: 2] [Ping: 42] [TPS: 20] [Version: 1.16.4] [Client: Fabric] deltaY=0.0030162615090318923 ticks=8 difference=0.23354363042199822
+[11-24-2022] [18:37:52] shangdi8888A failed Jump (Type A) [VL: 1] [Ping: 1681] [TPS: 20] [Version: 1.16.4] [Client: Fabric] deltaY=0.395575898673286 ticks=1 difference=0.02442408821369213
+[11-24-2022] [18:52:19] shangdi8888A failed Timer (Type D) [VL: 10] [Ping: 269] [TPS: 20] [Version: 1.16.4] [Client: Fabric] balance=100 delay=0
+[11-24-2022] [18:52:19] shangdi8888A failed Timer (Type D) [VL: 10] [Ping: 269] [TPS: 20] [Version: 1.16.4] [Client: Fabric] balance=99 delay=0
+[11-24-2022] [20:11:52] shangdi8888A failed Timer (Type D) [VL: 8] [Ping: 4501] [TPS: 20] [Version: 1.16.4] [Client: Fabric] balance=100 delay=0
+[11-24-2022] [20:11:52] shangdi8888A failed Timer (Type D) [VL: 10] [Ping: 3389] [TPS: 20] [Version: 1.16.4] [Client: Fabric] balance=99 delay=1
+[11-24-2022] [20:14:29] shangdi8888A failed Timer (Type D) [VL: 13] [Ping: 487] [TPS: 20] [Version: 1.16.4] [Client: Fabric] balance=100 delay=0
+[11-24-2022] [20:14:30] shangdi8888A failed Timer (Type D) [VL: 14] [Ping: 487] [TPS: 20] [Version: 1.16.4] [Client: Fabric] balance=99 delay=0
+[11-24-2022] [21:02:25] minc failed Fast Place *(Type B)* [VL: 1] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=9 delay=28
+[11-24-2022] [21:02:25] minc failed Fast Place *(Type B)* [VL: 2] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=15 delay=52
+[11-24-2022] [21:02:25] minc failed Fast Place *(Type B)* [VL: 3] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=15 delay=41
+[11-24-2022] [21:02:25] minc failed Fast Place *(Type B)* [VL: 4] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=12 delay=49
+[11-24-2022] [21:02:25] minc failed Fast Place *(Type B)* [VL: 5] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=15 delay=50
+[11-24-2022] [21:02:25] minc failed Fast Place *(Type B)* [VL: 6] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=15 delay=49
+[11-24-2022] [21:02:27] minc failed Fast Place *(Type B)* [VL: 7] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=8 delay=40
+[11-24-2022] [21:02:27] minc failed Fast Place *(Type B)* [VL: 8] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=8 delay=48
+[11-24-2022] [21:02:27] minc failed Fast Place *(Type B)* [VL: 9] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=10 delay=50
+[11-24-2022] [21:02:28] minc failed Fast Place *(Type B)* [VL: 10] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=8 delay=44
+[11-24-2022] [21:02:28] minc failed Fast Place *(Type B)* [VL: 11] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=5 delay=48
+[11-24-2022] [22:18:41] I_am_Zio failed Jump (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] deltaY=3.450000000000003 ticks=5 difference=3.366922182193534
+[11-24-2022] [22:18:41] I_am_Zio failed Jump (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] deltaY=3.450000000000003 limit=0.41999998688697815 tp=207
+[11-24-2022] [22:18:41] I_am_Zio failed Jump (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] deltaY=3.450000000000003 ticks=6 difference=3.528400001525881
+[11-24-2022] [22:18:41] I_am_Zio failed Jump (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] deltaY=3.450000000000003 limit=0.41999998688697815 tp=208
+[11-24-2022] [22:18:41] I_am_Zio failed Jump (Type A) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] deltaY=3.450000000000003 ticks=7 difference=3.6052320045166013
+[11-24-2022] [22:18:41] I_am_Zio failed Jump (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] deltaY=3.450000000000003 limit=0.41999998688697815 tp=209
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type C) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.36 diff=3.021000135806276 ticks=9 deltaY=0.0
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type D) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0 tp=211
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type D) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0 tp=212
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type C) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.36 diff=3.021000135806276 ticks=11 deltaY=0.0
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type D) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0 tp=213
+[11-24-2022] [22:18:42] I_am_Zio failed Strafe (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] difference=0.20806917196331337 deltaXZ=3.381000135806276
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type B) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type D) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0 tp=214
+[11-24-2022] [22:18:42] I_am_Zio failed Flight (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=13 delay=48 tp=215
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type B) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type C) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.36 diff=3.021000135806276 ticks=13 deltaY=0.0
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type D) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0 tp=215
+[11-24-2022] [22:18:42] I_am_Zio failed Strafe (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] difference=0.20806917196331337 deltaXZ=3.381000135806276
+[11-24-2022] [22:18:42] I_am_Zio failed Flight (Type E) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] ticks=9 acceleration=0.0 deltaY=0.0 delay=66 tp=216
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type B) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0
+[11-24-2022] [22:18:42] I_am_Zio failed Speed (Type D) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] speed=3.381000135806276 max=0.6205 diff=2.760500135806276 ticks=0 deltaY=0.0 tp=216
+[11-24-2022] [22:18:42] I_am_Zio failed Improbable (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.17.1] [Client: Fabric] movementViolations=32

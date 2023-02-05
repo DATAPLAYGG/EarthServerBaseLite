@@ -1,0 +1,18 @@
+# JOIN-LEAVE V2.1 Language Config || Copyright (C) 2021 IdW0309
+Languages:
+  EN:
+    NoPermissions: You re not allowed to use this command!
+    NoSubCommand: Please fill in a sub command!
+    CommandDoesntExist: This command doesnt exist!
+    SetJoinMessage: Join message has been set to
+    ShowJoinMessage: This is at this moment the join message
+    SetLeaveMessage: Leave message has been set to
+    ShowLeaveMessage: This is at this moment the leave message
+  NL:
+    NoPermissions: Je hebt niet de juiste permissies om dit command uit te voeren!
+    NoSubCommand: Vul een subcommando in!
+    CommandDoesntExist: Dit subcommando bestaat niet!
+    SetJoinMessage: Het join bericht is gezet naar
+    ShowJoinMessage: Op dit moment is de join message
+    SetLeaveMessage: Het leave bericht is gezet naar
+    ShowLeaveMessage: Op dit moment is de leave message
